@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7690a9ae9d73049d",
+        "id": "eea214c223238308",
         "type": "tabs",
         "children": [
           {
-            "id": "913a2db10cf8878d",
+            "id": "eae13035db8c7a5f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a193448f5088279",
+  "active": "eae13035db8c7a5f",
   "lastOpenFiles": [
-    "Untitled"
+    "u1251110-intro dev web/u1251110-intro dev web.md",
+    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md",
+    "logoAYTY-UFPB.png",
+    "README.md",
+    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
+    "u1251110-intro dev web/attachments",
+    "u1251110-intro dev web/Untitled.md",
+    "u1251110-intro dev web"
   ]
 }

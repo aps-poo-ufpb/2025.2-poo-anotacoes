@@ -181,28 +181,28 @@ logger.warn("Tentativa de login falhou");
 
 ---
 
-## 11. Boas Práticas Reforçadas
+## 11. Boas Práticas para a disciplina
 
 - Trabalhar em **parceria com colegas**: ajudar e pedir ajuda.
 - Aprender a lidar com **erros e mensagens de log**.
 - Dedicar **tempo contínuo** para estudo (4h seguidas, sem distrações).
-- Não usar o ChatGPT apenas para resolver exercícios — usar para **aprender**.
+- Usar ChatGPT (ou outra IA) para **aprender**.
 - Fazer pausas curtas, mas **não se desligar nas férias**: continuar praticando.
 
 ---
 
-## 1. Orientações do Professor
+## 1. Para fazer:
 
-- Usar **Javalin** (backend), **Thymeleaf** (frontend) e **PostgreSQL** (banco de dados).  
+- Usar **Javalin** (backend), **Thymeleaf** (frontend) e **PostgreSQL** (banco de dados) (Em breve).  
 - Estudar HTML e a documentação das ferramentas.  
 - Criar e rodar o projeto na própria máquina antes da próxima aula.  
 - Explorar o código: alterar, testar e observar os resultados.  
 - Implementar páginas de erro personalizadas (404 e 500).  
 - Ajudar os colegas que tiverem dificuldades.  
 - Criar o arquivo `application.properties` com:
-  ```properties
+```
   porta.servidor=8000
-  ```
+```
 
 ---
 

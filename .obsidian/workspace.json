@@ -11,13 +11,30 @@
             "id": "eae13035db8c7a5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "u1251110-intro dev web/u1251110-intro dev web.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "u1251110-intro dev web"
+            }
+          },
+          {
+            "id": "22f3aedecc039a82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "u1251110-intro dev web 2025-11-09 21.14.50.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98ffb5414c9c8807",
@@ -164,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "eae13035db8c7a5f",
+  "active": "22f3aedecc039a82",
   "lastOpenFiles": [
     "u1251110-intro dev web/u1251110-intro dev web.md",
     "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md",

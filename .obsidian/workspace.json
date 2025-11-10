@@ -11,15 +11,30 @@
             "id": "eae13035db8c7a5f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md"
+                "file": "u1251110-intro dev web/u1251110-intro dev web.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
+              "title": "u1251110-intro dev web"
+            }
+          },
+          {
+            "id": "22f3aedecc039a82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg"
+              },
+              "icon": "lucide-image",
               "title": "u1251110-intro dev web 2025-11-09 21.14.50.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "98ffb5414c9c8807",
@@ -156,24 +170,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "eae13035db8c7a5f",
+  "active": "22f3aedecc039a82",
   "lastOpenFiles": [
     "u1251110-intro dev web/u1251110-intro dev web.md",
-    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
     "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md",
     "logoAYTY-UFPB.png",
     "README.md",
+    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
     "u1251110-intro dev web/attachments",
     "u1251110-intro dev web/Untitled.md",
     "u1251110-intro dev web"

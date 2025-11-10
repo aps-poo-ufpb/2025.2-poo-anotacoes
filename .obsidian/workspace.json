@@ -32,9 +32,23 @@
               "icon": "lucide-image",
               "title": "u1251110-intro dev web 2025-11-09 21.14.50.excalidraw"
             }
+          },
+          {
+            "id": "d02284032ae438d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "u1251110-intro dev web/u1251110-intro dev web.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "u1251110-intro dev web"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,13 +195,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "22f3aedecc039a82",
+  "active": "d02284032ae438d7",
   "lastOpenFiles": [
+    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
     "u1251110-intro dev web/u1251110-intro dev web.md",
     "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md",
     "logoAYTY-UFPB.png",
     "README.md",
-    "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
     "u1251110-intro dev web/attachments",
     "u1251110-intro dev web/Untitled.md",
     "u1251110-intro dev web"

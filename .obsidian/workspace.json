@@ -4,51 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "eea214c223238308",
+        "id": "f087e3e1099eab7f",
         "type": "tabs",
         "children": [
           {
-            "id": "eae13035db8c7a5f",
+            "id": "c8ad02e793f2bc41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "u1251110-intro dev web/u1251110-intro dev web.md",
+                "file": "u1251117-arquitetura mvc/u1251117-arquitetura mvc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "u1251110-intro dev web"
+              "title": "u1251117-arquitetura mvc"
             }
           },
           {
-            "id": "22f3aedecc039a82",
+            "id": "13057c009011bc9d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg"
+                "file": "u1251117-arquitetura mvc/attachments/u1251117-arquitetura mvc 2025-11-17 08.21.57.excalidraw.md"
               },
-              "icon": "lucide-image",
-              "title": "u1251110-intro dev web 2025-11-09 21.14.50.excalidraw"
-            }
-          },
-          {
-            "id": "d02284032ae438d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "u1251110-intro dev web/u1251110-intro dev web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "u1251110-intro dev web"
+              "icon": "excalidraw-icon",
+              "title": "u1251117-arquitetura mvc 2025-11-17 08.21.57.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "98ffb5414c9c8807",
@@ -195,11 +182,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d02284032ae438d7",
+  "active": "13057c009011bc9d",
   "lastOpenFiles": [
-    "u1251110-intro dev web/attachments/CleanShot 2025-11-10 at 16.34.56.png",
+    "u1251117-arquitetura mvc/u1251117-arquitetura mvc.md",
+    "u1251117-arquitetura mvc/attachments/u1251117-arquitetura mvc 2025-11-17 08.21.57.excalidraw.svg",
+    "u1251117-arquitetura mvc/attachments/u1251117-arquitetura mvc 2025-11-17 08.21.57.excalidraw.md",
+    "u1251117-arquitetura mvc/attachments",
+    "u1251117-arquitetura mvc",
     "u1251110-intro dev web/u1251110-intro dev web.md",
     "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.svg",
+    "u1251110-intro dev web/attachments/CleanShot 2025-11-10 at 16.34.56.png",
     "u1251110-intro dev web/attachments/u1251110-intro dev web 2025-11-09 21.14.50.excalidraw.md",
     "logoAYTY-UFPB.png",
     "README.md",

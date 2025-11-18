@@ -264,8 +264,28 @@ Cada tipo de trabalho consome mais ou menos desses recursos:
 - Infraestrutura em nuvem (Digital Ocean, AWS, etc.).
 - MVC, Services, Controllers, Repositories.
 - Separação de responsabilidades.
-- Acompanhem sites especializados sobre desenvolvimento e sobre arquitetura de software. Exemplos:
-	- 
+## Leitura recomendada (sites como o InfoQ)
+- **InfoQ** – [https://infoq.com](https://infoq.com)
+- **Martin Fowler Blog** – [https://martinfowler.com](https://martinfowler.com)
+- **ThoughtWorks Technology Radar** – [https://www.thoughtworks.com/radar](https://www.thoughtworks.com/radar)
+- **High Scalability** – [http://highscalability.com](http://highscalability.com)
+- **The New Stack** – [https://thenewstack.io](https://thenewstack.io)
+- **DZone** – [https://dzone.com](https://dzone.com)
+- **Hackernoon** – [https://hackernoon.com](https://hackernoon.com)
+- **Baeldung** – [https://baeldung.com](https://baeldung.com)
+- **Dev.to** – [https://dev.to](https://dev.to)
+- **AWS Architecture Blog** – [https://aws.amazon.com/blogs/architecture](https://aws.amazon.com/blogs/architecture)
+- **Google Cloud Architecture Center** – [https://cloud.google.com/architecture](https://cloud.google.com/architecture)
+- **Microsoft Architecture Center** – [https://learn.microsoft.com/azure/architecture](https://learn.microsoft.com/azure/architecture)
+- **ACM Queue** – [https://queue.acm.org](https://queue.acm.org)
+- **Serverless Framework Blog** – [https://www.serverless.com/blog](https://www.serverless.com/blog)
+- **Red Hat Developer Blog** – [https://developers.redhat.com](https://developers.redhat.com)
+- **Netflix Tech Blog** – [https://netflixtechblog.com](https://netflixtechblog.com)
+- **Uber Engineering** – [https://eng.uber.com](https://eng.uber.com)
+- **Airbnb Engineering** – [https://medium.com/airbnb-engineering](https://medium.com/airbnb-engineering)
+- **Meta Engineering** – [https://engineering.fb.com](https://engineering.fb.com)
+- **Dropbox Tech Blog** – [https://dropbox.tech](https://dropbox.tech)
+
 
 ---
 

@@ -264,6 +264,8 @@ Cada tipo de trabalho consome mais ou menos desses recursos:
 - Infraestrutura em nuvem (Digital Ocean, AWS, etc.).
 - MVC, Services, Controllers, Repositories.
 - Separação de responsabilidades.
+- Acompanhem sites especializados sobre desenvolvimento e sobre arquitetura de software. Exemplos:
+	- 
 
 ---
 
